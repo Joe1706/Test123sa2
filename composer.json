@@ -1,0 +1,12 @@
+{
+    "name": "joe/test",
+    "description": "Make Test",
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": { "test\\": "src/" }
+    },
+    "require": {
+        "jiaozhihao/1123remote-repo": "dev-master"
+    }
+}

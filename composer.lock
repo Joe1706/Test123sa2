@@ -1,0 +1,50 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "22db8449da810336eb246045b3a7110e",
+    "packages": [
+        {
+            "name": "jiaozhihao/1123remote-repo",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/Joe1706/1123RemoteRepo.git",
+                "reference": "cc74bd4fbb39350fb17cd08b0e19b2889f7e5e2b"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/Joe1706/1123RemoteRepo/zipball/cc74bd4fbb39350fb17cd08b0e19b2889f7e5e2b",
+                "reference": "cc74bd4fbb39350fb17cd08b0e19b2889f7e5e2b",
+                "shasum": ""
+            },
+            "type": "library",
+            "autoload": {
+                "psr-0": {
+                    "": "www/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "authors": [
+                {
+                    "name": "MDPI",
+                    "email": "test@mdpi.com"
+                }
+            ],
+            "time": "2020-07-12T13:15:53+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "dev",
+    "stability-flags": {
+        "jiaozhihao/1123remote-repo": 20
+    },
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": [],
+    "plugin-api-version": "1.1.0"
+}
